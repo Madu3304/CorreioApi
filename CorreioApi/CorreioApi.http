@@ -1,0 +1,6 @@
+@CorreioApi_HostAddress = http://localhost:5050
+
+GET {{CorreioApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
